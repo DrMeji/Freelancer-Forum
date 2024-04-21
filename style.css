@@ -1,0 +1,9 @@
+/* Add your styles here if needed */
+/* Define a class for the container box */
+.code-container {
+    background-color: #F0F0F0; /* Background color of the box */
+    border: 1px solid #CCCCCC; /* Border style and color */
+    padding: 10px; /* Padding inside the box */
+    margin: 10px; /* Margin around the box */
+}
+
